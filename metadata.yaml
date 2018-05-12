@@ -1,0 +1,33 @@
+_repo: The-Irish-Twins_28431
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Perkins, Lucy Fitch
+    alias: Fitch, Lucy
+    birthdate: 1865
+    deathdate: 1937
+    gutenberg_agent_id: '1216'
+    url: http://www.gutenberg.org/2009/agents/1216
+    wikipedia: http://en.wikipedia.org/wiki/Lucy_Fitch_Perkins
+description: Go back to old Ireland and into the lives of two seven year old twins,
+  Michael and Eileen McQueen. Enjoy the adventures of Michael and Eileen, as they
+  encounter the "Tinkers" (gypsies), their experiences at the fair, and their eventual
+  immigration to the United States. Enjoy learning some Irish folk lore from Grannie
+  Malone, the twins, and other characters.
+gutenberg_issued: '2009-03-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '28431'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Ireland -- Juvenile fiction'
+- !lcsh 'Twins -- Juvenile fiction'
+title: The Irish Twins
+url: http://www.gutenberg.org/ebooks/28431
